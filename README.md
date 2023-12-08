@@ -9,16 +9,16 @@
 ### <div align="center">I'm Alan, a student who's in love with the field of Full-Stack!</div>  
   
 
-- 🔭 I’m currently working on   
+- [🔭](https://icons8.com/icon/46315/hard-working) I’m currently working on   
   
 
-- 🌱 I’m currently learning   
+- [[🌱](https://icons8.com/icon/c85v0dicpUVU/growing)](https://icons8.com/icon/4dqHoNQ5CC3L/learning) I’m currently learning   
   
 
-- ❓ Ask me about anything related to any of the languages mentioned, I would be glad to help you out  
+- [❓](https://icons8.com/icon/fi5C1IJfdN9W/ask-question) Ask me about anything related to any of the languages mentioned, I would be glad to help you out  
   
 
-- ⚡ Fun fact: I drink coffee before going to sleep hehe :)  
+- [⚡](https://icons8.com/icon/Nb8usNzXUMhX/lightning-bolt) Fun fact: I drink coffee before going to sleep hehe :)  
   
 
 <br/>  
