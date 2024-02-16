@@ -12,7 +12,7 @@
 - [🔭](https://icons8.com/icon/46315/hard-working) I’m currently working on a Webiste for my College
   
 
-- [[🌱](https://icons8.com/icon/c85v0dicpUVU/growing)](https://icons8.com/icon/4dqHoNQ5CC3L/learning) I’m currently learning Adobe Applications 
+- [🌱](https://icons8.com/icon/c85v0dicpUVU/growing) I’m currently learning Adobe Applications 
   
 
 - [❓](https://icons8.com/icon/fi5C1IJfdN9W/ask-question) Ask me about anything related to any of the languages mentioned, I would be glad to help you out  
