@@ -213,6 +213,35 @@ Image-processing pipeline exploring detection of brain tumors from medical scans
 
 ---
 
+## 📫 Get in Touch
+
+<div align="center">
+
+Got an idea, a project, or just want to say hi? **My inbox is always open.**
+
+<a href="mailto:alan.babu7149@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20me%20%E2%86%92%20alan.babu7149@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Alan" height="38" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:alan.babu7149@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/alan-babu-63b382232">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://gitlab.com/alan.babu7149">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
+<a href="https://twitter.com/AlanBabu7149">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ### ⚡ Fun fact
